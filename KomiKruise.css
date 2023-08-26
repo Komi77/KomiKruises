@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.a1{
+    background-color: black;
+    display: flex;
+    height:25vh ;
+    justify-content: space-between;
+    align-items: center;
+    
+    /* width: 100vh; */
+}
+
+.a2 img{
+height: 25vh;
+width:25vw ;
+}
+
+.a3 ul li{
+    display: inline-block;
+    /* margin: 2vw; */
+    font-size: 3.8vh;
+    padding: 3vh;
+    font-family: 'Rubik Wet Paint', cursive;
+    font-weight: lighter;
+    margin: 1vw;
+}
+
+.a3 ul li a{
+text-decoration: none;
+color: red;
+}
+
+.a3 a:hover{
+    color:white ;
+}
+
+footer{
+    display: flex;
+width: 100vw;
+height: 22vh;
+background-color: black;
+margin: 0;
+padding: 0;
+justify-content: center;
+align-items: center;
+}
+.footer1{
+    color: red;
+    font-family: 'PT Sans', sans-serif;
+  font-size: 2.5vh;
+    
+}
+.footer2{
+    margin: 0vh 10vh;
+   
+}
+
+.footer2 a{
+    text-decoration: none;
+    color: red;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.footer2 a:hover{
+    text-decoration: underline;
+}
+.a4{
+    font-family: 'Bebas Neue', sans-serif;
+    text-decoration: underline;
+}
+
+.a5 {
+   display: flex;
+   justify-content: space-around;
+}
+.a6{
+    display: inline-block;
+    /* border: 2px solid black; */
+}
+.a6 img{
+    width: 30vw;
+    height: 40vh;
+    border: 2px solid black;
+
+}
+.a7{
+    font-family: 'Black Ops One', cursive;
+    font-size: 7vh;
+    border: 2px solid black;
+
+}
+.a8{
+    display: inline-block;
+    /* border: 2px solid black; */
+
+}
+.a8 img{
+    height: 40vh ;
+    width: 30vw;
+    border: 2px solid black;
+
+}
+.a9{
+    font-family: 'Black Ops One', cursive;
+    font-size: 7vh;
+    border: 2px solid black;
+
+}
+.a10 img{
+    height: 40vh ;
+    width: 30vw;
+    border: 2px solid black;
+
+}
+.a11{
+    font-family: 'Black Ops One', cursive;
+    font-size: 7vh;
+    border: 2px solid black;   
+}
+
+.a12{
+display: flex;
+justify-content:space-between;
+}
+
+.a13{
+   /* display: inline-block;  */
+   font-family:  'Bebas Neue', sans-serif;
+   font-size:3vh ;
+   /* text-decoration: underline; */
+   border: 2px solid black;
+
+}
+.a14  {
+/* width: fit-content; */
+display: inline-block; 
+font-family: 'Fira Sans Extra Condensed', sans-serif;
+font-size: 3vh;
+border: 2px solid black;
+
+}
+
+.a15 {
+   display: inline-block; 
+   font-size: 3vh;
+
+font-family: 'Fira Sans Extra Condensed', sans-serif;
+border: 2px solid black;
+
+}
+.a16 {
+   display: inline-block; 
+   border: 2px solid black;
+   font-size: 3vh;
+    font-family: 'Fira Sans Extra Condensed', sans-serif
+}
+.a13a{
+    display: flex;
+    justify-content: space-around;
+}
+
